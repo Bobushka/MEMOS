@@ -1,3 +1,5 @@
+SOURCE: https://www.youtube.com/watch?v=ifTF3ags0XI&ab_channel=Fireship
+
 Ctrl/Cmd+B - Command pallete
 
 !+Tab - развернуть .html шаблон
