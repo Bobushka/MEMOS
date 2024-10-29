@@ -2,6 +2,7 @@ SOURCE: https://www.youtube.com/watch?v=ifTF3ags0XI&ab_channel=Fireship
 
 https://www.youtube.com/watch?v=nWIRJBCjls8&ab_channel=VisualStudioCode
 
+
 Ctrl/Cmd+B - Command pallete
 
 !+Tab - развернуть .html шаблон
